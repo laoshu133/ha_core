@@ -22,6 +22,7 @@
         "visualstudioexptteam.vscodeintellicode",
         "redhat.vscode-yaml",
         "esbenp.prettier-vscode",
+        "spmeesseman.vscode-taskexplorer",
         "GitHub.vscode-pull-request-github",
         "GitHub.copilot"
       ],
